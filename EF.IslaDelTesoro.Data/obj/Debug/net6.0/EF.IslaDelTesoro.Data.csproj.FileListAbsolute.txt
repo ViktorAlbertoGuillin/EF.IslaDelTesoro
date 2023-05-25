@@ -1,0 +1,14 @@
+C:\proyectosCSharp\EFramework\EF.IslaDelTesoro\EF.IslaDelTesoro.Data\bin\Debug\net6.0\EF.IslaDelTesoro.Data.deps.json
+C:\proyectosCSharp\EFramework\EF.IslaDelTesoro\EF.IslaDelTesoro.Data\bin\Debug\net6.0\EF.IslaDelTesoro.Data.runtimeconfig.json
+C:\proyectosCSharp\EFramework\EF.IslaDelTesoro\EF.IslaDelTesoro.Data\bin\Debug\net6.0\EF.IslaDelTesoro.Data.dll
+C:\proyectosCSharp\EFramework\EF.IslaDelTesoro\EF.IslaDelTesoro.Data\bin\Debug\net6.0\EF.IslaDelTesoro.Data.pdb
+C:\proyectosCSharp\EFramework\EF.IslaDelTesoro\EF.IslaDelTesoro.Data\obj\Debug\net6.0\EF.IslaDelTesoro.Data.csproj.AssemblyReference.cache
+C:\proyectosCSharp\EFramework\EF.IslaDelTesoro\EF.IslaDelTesoro.Data\obj\Debug\net6.0\EF.IslaDelTesoro.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectosCSharp\EFramework\EF.IslaDelTesoro\EF.IslaDelTesoro.Data\obj\Debug\net6.0\EF.IslaDelTesoro.Data.AssemblyInfoInputs.cache
+C:\proyectosCSharp\EFramework\EF.IslaDelTesoro\EF.IslaDelTesoro.Data\obj\Debug\net6.0\EF.IslaDelTesoro.Data.AssemblyInfo.cs
+C:\proyectosCSharp\EFramework\EF.IslaDelTesoro\EF.IslaDelTesoro.Data\obj\Debug\net6.0\EF.IslaDelTesoro.Data.csproj.CoreCompileInputs.cache
+C:\proyectosCSharp\EFramework\EF.IslaDelTesoro\EF.IslaDelTesoro.Data\obj\Debug\net6.0\EF.IslaDelTesoro.Data.dll
+C:\proyectosCSharp\EFramework\EF.IslaDelTesoro\EF.IslaDelTesoro.Data\obj\Debug\net6.0\refint\EF.IslaDelTesoro.Data.dll
+C:\proyectosCSharp\EFramework\EF.IslaDelTesoro\EF.IslaDelTesoro.Data\obj\Debug\net6.0\EF.IslaDelTesoro.Data.pdb
+C:\proyectosCSharp\EFramework\EF.IslaDelTesoro\EF.IslaDelTesoro.Data\obj\Debug\net6.0\EF.IslaDelTesoro.Data.genruntimeconfig.cache
+C:\proyectosCSharp\EFramework\EF.IslaDelTesoro\EF.IslaDelTesoro.Data\obj\Debug\net6.0\ref\EF.IslaDelTesoro.Data.dll
